@@ -12,6 +12,7 @@ I like building things that move cleanly from raw data to usable systems, whethe
 - Instagram: [ikbarpaaiz__](https://instagram.com/ikbarpaaiz__)
 - Discord: `hydd__`
 - Website: [ikbarfaiz.vercel.app](https://ikbarfaiz.vercel.app)
+- Museum: [astrolyte.vercel.app](https://astrolyte.vercel.app)
 - Email: `ikbarfaiz14@gmail.com`
 
 ## Focus Areas
