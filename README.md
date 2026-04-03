@@ -1,6 +1,6 @@
 # Ikbar Faiz
 
-### Astrophysics x Computing
+### Astrophysics first. Computation as method.
 
 Second-year Computer Science student at BINUS University working across astrophysics, machine learning, data processing, and cloud infrastructure. My work sits between scientific analysis and technical execution, with a particular focus on stellar clusters, survey-based data, scalable workflows, and computational approaches to physical questions.
 
@@ -11,8 +11,7 @@ I like building things that move cleanly from raw data to usable systems, whethe
 - LinkedIn: [ikbarfaiz](https://linkedin.com/in/ikbarfaiz)
 - Instagram: [ikbarpaaiz__](https://instagram.com/ikbarpaaiz__)
 - Discord: `hydd__`
-- Website: [ikbarfaiz.vercel.app](https://ikbarfaiz.vercel.app)
-- Museum: [astrolyte.vercel.app](https://astrolyte.vercel.app)
+- Website: [newtonraphson14.github.io/website](https://newtonraphson14.github.io/website/)
 - Email: `ikbarfaiz14@gmail.com`
 
 ## Focus Areas
@@ -34,6 +33,10 @@ I like building things that move cleanly from raw data to usable systems, whethe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=newtonraphson14&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=newtonraphson14&icon=0&color=0)](https://visitcount.itsvg.in)
