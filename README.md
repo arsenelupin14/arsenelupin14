@@ -1,10 +1,10 @@
 # Ikbar Faiz
 
-### Astrophysics first. Computation as method.
+### Data-engineering-oriented builder focused on reproducible workflows, metadata-first pipelines, and analysis-ready outputs.
 
-Second-year Computer Science student at BINUS University working across astrophysics, machine learning, data processing, and cloud infrastructure. My work sits between scientific analysis and technical execution, with a particular focus on stellar clusters, survey-based data, scalable workflows, and computational approaches to physical questions.
+Second-year Computer Science student at BINUS University building reproducible data systems for astrophysical and observational datasets. My work focuses on metadata-first ingestion, structured processing, validation, and analysis-ready outputs that move cleanly from raw records to usable downstream artifacts.
 
-I like building things that move cleanly from raw data to usable systems, whether that means processing data, training models, designing cloud infrastructure, or turning research workflows into something more rigorous and reproducible.
+I am most interested in turning messy raw records into reliable and reusable systems: designing ingestion paths, organizing metadata, producing validated downstream artifacts, and keeping workflows reproducible enough to be rerun, audited, and extended.
 
 ## Connect
 
