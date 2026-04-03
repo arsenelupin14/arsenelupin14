@@ -1,4 +1,4 @@
-# Ikbar Faiz (New Account)
+# Ikbar Faiz
 
 ### Data-engineering-oriented builder focused on reproducible workflows, metadata-first pipelines, and analysis-ready outputs.
 
