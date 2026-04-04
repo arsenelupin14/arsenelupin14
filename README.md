@@ -2,9 +2,9 @@
 
 ### Data-engineering-oriented builder focused on reproducible workflows, metadata-first pipelines, and analysis-ready outputs.
 
-Second-year Computer Science student at BINUS University building reproducible data systems for astrophysical and observational datasets. My work focuses on metadata-first ingestion, structured processing, validation, and analysis-ready outputs that move cleanly from raw records to usable downstream artifacts.
+Second-year Computer Science student at BINUS University focused on building reproducible data systems for scientific and observational datasets. My work centers on metadata-first ingestion, structured processing, validation, and analysis-ready outputs that transform raw records into reliable downstream artifacts.
 
-I am most interested in turning messy raw records into reliable and reusable systems: designing ingestion paths, organizing metadata, producing validated downstream artifacts, and keeping workflows reproducible enough to be rerun, audited, and extended.
+I am especially interested in turning messy data into reusable systems through clear ingestion paths, organized metadata, validated outputs, and workflows that can be rerun, audited, and extended over time.
 
 ## Connect
 
@@ -16,10 +16,10 @@ I am most interested in turning messy raw records into reliable and reusable sys
 
 ## Focus Areas
 
-- Astrophysics and survey-driven data analysis
-- Machine learning and scientific computing
-- Data processing and reproducible workflows
-- Cloud infrastructure and automation
+- Data engineering and ingestion workflows
+- Reproducible pipelines and validation-first design
+- Metadata-driven data processing
+- Automation and reliable technical infrastructure
 
 ## Languages and Tools
 
@@ -33,10 +33,3 @@ I am most interested in turning messy raw records into reliable and reusable sys
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=arsenelupin14&theme=dark&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=arsenelupin14&icon=0&color=0)](https://visitcount.itsvg.in)
