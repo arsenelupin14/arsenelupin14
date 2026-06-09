@@ -1,6 +1,6 @@
 # Ikbar Faiz
 
-### Data-engineering-oriented builder focused on reproducible workflows, metadata-first pipelines, and analysis-ready outputs.
+### Data engineering
 
 Second-year Computer Science student at BINUS University focused on building reproducible data systems for scientific and observational datasets. My work centers on metadata-first ingestion, structured processing, validation, and analysis-ready outputs that transform raw records into reliable downstream artifacts.
 
@@ -33,3 +33,7 @@ I am especially interested in turning messy data into reusable systems through c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Fun Fact
+
+When i order cheese burger, i throw the pickles into random someone bottle.
