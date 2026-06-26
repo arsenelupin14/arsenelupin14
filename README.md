@@ -1,10 +1,8 @@
 # Ikbar Faiz
 
-### Data engineering
+### Data engineering and Astrophysics
 
-Second-year Computer Science student at BINUS University focused on building reproducible data systems for scientific and observational datasets. My work centers on metadata-first ingestion, structured processing, validation, and analysis-ready outputs that transform raw records into reliable downstream artifacts.
-
-I am especially interested in turning messy data into reusable systems through clear ingestion paths, organized metadata, validated outputs, and workflows that can be rerun, audited, and extended over time.
+I don't have preferred caption but the <h1> should be explain it all.
 
 ## Connect
 
@@ -17,9 +15,9 @@ I am especially interested in turning messy data into reusable systems through c
 ## Focus Areas
 
 - Data engineering and ingestion workflows
-- Reproducible pipelines and validation-first design
-- Metadata-driven data processing
-- Automation and reliable technical infrastructure
+- Reproducible pipelines and validation for data
+- Data processing
+- Automation and reliable technical infrastructure data
 
 ## Languages and Tools
 
